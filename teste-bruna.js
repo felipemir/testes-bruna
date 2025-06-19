@@ -70,7 +70,7 @@ function runTests(problemName, userFunction, testCases) {
 
 
 // =============================================================================
-//  ÁREA DE CÓDIGO (MODIFIQUE APENAS AQUI)
+//  ÁREA DE CÓDIGO  (MODIFIQUE APENAS AQUI)
 // =============================================================================
 
 /**
